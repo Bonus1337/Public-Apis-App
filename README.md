@@ -2,6 +2,14 @@
 
 A Vue.js application for searching and filtering a list of public APIs.
 
+## Technologies
+
+The application was created using the following technologies:
+
+- Vue 3 - a progressive framework for building user interfaces
+- Vuex - a state management pattern and library for Vue applications
+- Axios - a JavaScript library for making HTTP requests
+
 ## Features
 
 - Displaying a list of public APIs [Public APIs](https://api.publicapis.org/)
